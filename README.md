@@ -4,9 +4,9 @@ Este projeto foi desenvolvido durante a **NLW 20** promovida pela **Rocketseat**
 ## 🎮 Sobre o projeto
 O **Assistente de Meta** é uma aplicação web onde o usuário pode fazer perguntas relacionadas a três jogos:
 
--League of Legends
--Valorant
--Dead by Daylight
+- League of Legends
+- Valorant
+- Dead by Daylight
 
 Com base no jogo escolhido e na pergunta inserida, a IA retorna uma resposta objetiva com **dicas, builds e estratégias atualizadas**, utilizando chamadas à API e renderização via Markdown.
 
